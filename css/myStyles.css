@@ -1,0 +1,33 @@
+.background {
+	background-color: #353535;
+	background-position: center;
+	background-image: -webkit-linear-gradient(270deg,rgba(8,0,118,1.00) 0%,rgba(66,66,66,1.00) 82.90%);
+	background-image: -moz-linear-gradient(270deg,rgba(8,0,118,1.00) 0%,rgba(66,66,66,1.00) 82.90%);
+	background-image: -o-linear-gradient(270deg,rgba(8,0,118,1.00) 0%,rgba(66,66,66,1.00) 82.90%);
+	background-image: linear-gradient(180deg,rgba(8,0,118,1.00) 0%,rgba(66,66,66,1.00) 82.90%);
+
+}
+.logo {
+	position: static;
+}
+.logo-text {
+	color: #DDDDDD;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-style: italic;
+	text-align: center;
+	text-shadow: 3px 5px 5px #000000;
+	font-weight: bold;
+	font-size: 8em;
+	position: absolute;
+	top: 35vh;
+	right: auto;
+	left: auto;
+}
+
+.logo-text-orange {
+	color: orange;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: italic;
+	font-weight: bolder;
+	/* [disabled]font-size: xx-large; */
+}
